@@ -1,4 +1,4 @@
-# Earnest Tasks (Assignment)
+# Task Management System
 
 Full-stack task manager:
 
